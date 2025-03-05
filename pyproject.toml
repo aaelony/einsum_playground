@@ -1,5 +1,5 @@
 [project]
-name = "einsum-playground"
+name = "yet_another_einsum-playground"
 version = "0.1.0"
 description = "Playground to explore einsum in pytorch"
 readme = "README.md"
