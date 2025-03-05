@@ -19,7 +19,7 @@ Benefits:
 ![einsum-2.png](png/einsum-2.png)
 
 
-## Annotated Exampe
+## Annotated Examples
 
 
 #### Permutation of Tensors, e.g. transpose
